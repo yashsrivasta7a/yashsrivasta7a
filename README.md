@@ -1,4 +1,4 @@
-Hi, I am Yash Srivastava 👋
+Hi, I am Yash Srivastava 👋<br>
 🏫 2nd Year Computer Science Student<br>
 🔧 Learning as I build!
 
