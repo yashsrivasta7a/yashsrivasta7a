@@ -1,5 +1,5 @@
 Hi, I am Yash Srivastava 👋<br>
-🏫 3nd Year Computer Science Student<br>
+🏫 A Pre-Final year Computer Science Student<br>
 🔧 Learning as I build!
 
 # 💻 Tech Stack:
