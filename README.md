@@ -5,5 +5,4 @@
 <br>
 
 - Everything is connected 🌐
-- Building [EssentialSpace](https://essentialspaceai.vercel.app)
 - Portfolio at [Terminal](https://yashsrivasta7a,tech)
