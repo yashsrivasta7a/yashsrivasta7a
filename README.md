@@ -5,4 +5,5 @@
 <br>
 
 - Everything is connected 🌐
+- Full Stack Intern @Adquora
 - Portfolio at [Terminal](https://yashsrivasta7a,tech)
