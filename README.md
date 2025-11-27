@@ -17,7 +17,4 @@
 - 🖥 Portfolio: [Terminal](https://yashsrivasta7a.tech)
 
 ---
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashsrivasta7a)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashsrivasta7a&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashsrivasta7a&mode=weekly)](https://git.io/streak-stats)
