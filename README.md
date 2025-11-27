@@ -7,3 +7,5 @@
 - Everything is connected 🌐
 - Full Stack Intern @Adquora
 - Portfolio at [Terminal](https://yashsrivasta7a,tech)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashsrivasta7a)](https://git.io/streak-stats)
