@@ -1,4 +1,4 @@
-[X/Twitter](https://x.com/yashsrivasta7a) | [LinkedIn](https://www.linkedin.com/in/yashsrivasta7a) | [Email](mailto:yashsrivasta7a@gmail.com) | | [Website](https://yashsrivasta7a.in/)
+[X/Twitter](https://x.com/yashsrivasta7a) | [LinkedIn](https://www.linkedin.com/in/yashsrivasta7a) | [Email](mailto:yashsrivasta7a@gmail.com) | [Website](https://yashsrivasta7a.in/)
 
 - Yash Srivastava | 22yo | Gurugram, India
 - Current: Engineering @ OneCX
