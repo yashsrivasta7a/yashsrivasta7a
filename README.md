@@ -13,4 +13,3 @@
 - Developed AI agents and LLM-powered workflows 
 - Worked across cloud infrastructure, full-stack development, and IoT systems
 
-- <iframe src="https://github.com/sponsors/yashsrivasta7a/button" title="Sponsor yashsrivasta7a" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
