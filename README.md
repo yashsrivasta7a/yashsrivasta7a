@@ -12,3 +12,5 @@
 - Built and shipped products across web, mobile, desktop ([DeskNotch](https://apps.microsoft.com/detail/9NBWQJCVMJGP?hl=en-us&gl=US&ocid=pdpshare)), and browser extensions ([Auto Star](https://chromewebstore.google.com/detail/auto-star/plbiedpiaeongaonmooflnbjigckoppa))
 - Developed AI agents and LLM-powered workflows 
 - Worked across cloud infrastructure, full-stack development, and IoT systems
+
+- <iframe src="https://github.com/sponsors/yashsrivasta7a/button" title="Sponsor yashsrivasta7a" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
