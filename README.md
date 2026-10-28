@@ -1,5 +1,4 @@
-[X/Twitter](https://x.com/yashsrivasta7a) | [LinkedIn](https://www.linkedin.com/in/yashsrivasta7a) | [Email](mailto:yashsrivasta7a@gmail.com) | [Website](https://yashsrivasta7a.in/) | [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/yashsrivasta7a)
-
+[X/Twitter](https://x.com/yashsrivasta7a) | [LinkedIn](https://www.linkedin.com/in/yashsrivasta7a) | [Email](mailto:yashsrivasta7a@gmail.com) | [Website](https://yashsrivasta7a.in/) 
 - Yash Srivastava | 22yo | Gurugram, India
 - Current: Engineering @ OneCX
 - Prev: Engineering @ Scitech Industries, Engineering @ KPMG
@@ -13,3 +12,4 @@
 - Developed AI agents and LLM-powered workflows 
 - Worked across cloud infrastructure, full-stack development, and IoT systems
 
+ [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/yashsrivasta7a)
