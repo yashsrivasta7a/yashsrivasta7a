@@ -8,7 +8,7 @@
 #### Engineering Highlights
 
 - Shipped a [product](https://showfolio.app/) used by 1,500+ users 
-- Built and shipped products across web, mobile, desktop ([DeskNotch](https://apps.microsoft.com/detail/9NBWQJCVMJGP?hl=en-us&gl=US&ocid=pdpshare)) installed by #### 1000+ users , and browser extensions ([Auto Star](https://chromewebstore.google.com/detail/auto-star/plbiedpiaeongaonmooflnbjigckoppa))
+- Built and shipped products across web, mobile, desktop ([DeskNotch](https://apps.microsoft.com/detail/9NBWQJCVMJGP?hl=en-us&gl=US&ocid=pdpshare)) installed by 1000+ users , and browser extensions ([Auto Star](https://chromewebstore.google.com/detail/auto-star/plbiedpiaeongaonmooflnbjigckoppa))
 - Developed AI agents and LLM-powered workflows 
 - Worked across cloud infrastructure, full-stack development, and IoT systems
 
